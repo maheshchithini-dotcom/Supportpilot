@@ -1,0 +1,41 @@
+# Environment variables — NEVER push these!
+.env
+*.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+*.egg-info/
+
+# Node — VERY IMPORTANT!
+frontend/node_modules/
+node_modules/
+
+# Build files
+frontend/build/
+build/
+
+# Database
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.py
+
+# Logs
+*.log
+
+# Docker
+.docker/
