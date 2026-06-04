@@ -3,7 +3,7 @@ uvicorn==0.30.0
 langchain==0.2.0
 langchain-openai==0.1.8
 langgraph==0.2.0
-langsmith==0.1.70
+langsmith==0.1.112
 sqlalchemy==2.0.30
 python-dotenv==1.0.1
 pydantic==2.7.0
